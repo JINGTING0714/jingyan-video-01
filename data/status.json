@@ -1,7 +1,12 @@
 {
-  "repository": "jingyan-video-01",
+  "system": "jingyan-media-center",
+  "repository": "JINGTING0714/jingyan-video-01",
+  "id": "video-01",
   "type": "video",
-  "used": "0MB",
-  "limit": "700MB",
-  "status": "active"
+  "usedMB": 1.536,
+  "targetMB": 700,
+  "overflowToleranceMB": 10,
+  "status": "active",
+  "state": "active",
+  "updatedAt": "2026-08-17T05:49:29.311Z"
 }
