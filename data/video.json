@@ -4,9 +4,9 @@
     "operationId": "video:2aa89bf1d9d112d1894b3a7458f0d5ed68b8b1dc95ba66fd5aaf80e69c4e5d26",
     "sha256": "2aa89bf1d9d112d1894b3a7458f0d5ed68b8b1dc95ba66fd5aaf80e69c4e5d26",
     "sequence": 1,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "test video",
     "originalName": "test video.mp4",
     "filename": "001-test-video.mp4",
@@ -26,11 +26,11 @@
     },
     "path": "video/001-test-video.mp4",
     "cdnPath": "/video/001-test-video.mp4",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/video/001-test-video.mp4",
     "createdAt": "2026-08-17T05:49:25.421Z",
     "sourceCompletedAt": "2026-08-17T05:49:27.809Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-08-17T05:49:35.247Z",
+    "uploadedAt": "2026-08-17T05:49:35.247Z",
     "uploader": null
   }
 ]
