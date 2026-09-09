@@ -4,7 +4,7 @@
     "operationId": "video:9a94ff432df632024bab4e634e324b505f0f6bed8b0036075466bab72e8b4eb6",
     "sha256": "9a94ff432df632024bab4e634e324b505f0f6bed8b0036075466bab72e8b4eb6",
     "sequence": 2,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "1787811351011.",
