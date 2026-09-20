@@ -4,7 +4,7 @@
     "operationId": "video:00778ee38f88e9971c6f1a88aee635660ec31ef35143f46656512fbe3c7679b1",
     "sha256": "00778ee38f88e9971c6f1a88aee635660ec31ef35143f46656512fbe3c7679b1",
     "sequence": 3,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "SVID_20260920_092950_1",
