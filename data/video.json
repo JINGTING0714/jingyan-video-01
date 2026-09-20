@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "id": "video-000003",
+    "operationId": "video:00778ee38f88e9971c6f1a88aee635660ec31ef35143f46656512fbe3c7679b1",
+    "sha256": "00778ee38f88e9971c6f1a88aee635660ec31ef35143f46656512fbe3c7679b1",
+    "sequence": 3,
+    "status": "pending",
+    "sourceStatus": "pending",
+    "cdnStatus": "pending",
+    "title": "SVID_20260920_092950_1",
+    "originalName": "SVID_20260920_092950_1.mp4",
+    "filename": "003-svid-20260920-092950-1.mp4",
+    "type": "video",
+    "format": "mp4",
+    "sizeMB": 7.552,
+    "repository": {
+      "id": "video-01",
+      "name": "jingyan-video-01",
+      "fullName": "JINGTING0714/jingyan-video-01"
+    },
+    "source": {
+      "repositoryId": "video-01",
+      "repo": "JINGTING0714/jingyan-video-01",
+      "branch": "main",
+      "path": "video/003-svid-20260920-092950-1.mp4"
+    },
+    "path": "video/003-svid-20260920-092950-1.mp4",
+    "cdnPath": "/video/003-svid-20260920-092950-1.mp4",
+    "url": null,
+    "createdAt": "2026-09-20T01:31:46.003Z",
+    "sourceCompletedAt": null,
+    "cdnPublishedAt": null,
+    "uploadedAt": null,
+    "uploader": null
+  }
+]
