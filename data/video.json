@@ -344,9 +344,9 @@
     "operationId": "video:b3786be81c12f9d6d141c48749c923da9e0fc9c7e29a882e621050979e55c9a3",
     "sha256": "b3786be81c12f9d6d141c48749c923da9e0fc9c7e29a882e621050979e55c9a3",
     "sequence": 13,
-    "status": "cdn-pending",
+    "status": "complete",
     "sourceStatus": "complete",
-    "cdnStatus": "pending",
+    "cdnStatus": "published",
     "title": "SVID_20261007_150922_1",
     "originalName": "SVID_20261007_150922_1.mp4",
     "filename": "013-svid-20261007-150922-1.mp4",
@@ -366,11 +366,11 @@
     },
     "path": "video/013-svid-20261007-150922-1.mp4",
     "cdnPath": "/video/013-svid-20261007-150922-1.mp4",
-    "url": null,
+    "url": "https://jingyan-media-cdn.jingyancdn.workers.dev/video/013-svid-20261007-150922-1.mp4",
     "createdAt": "2026-10-07T07:11:07.518Z",
     "sourceCompletedAt": "2026-10-07T07:11:12.369Z",
-    "cdnPublishedAt": null,
-    "uploadedAt": null,
+    "cdnPublishedAt": "2026-10-07T07:11:22.697Z",
+    "uploadedAt": "2026-10-07T07:11:22.697Z",
     "uploader": null
   }
 ]
