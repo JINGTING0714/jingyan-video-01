@@ -310,7 +310,7 @@
     "operationId": "video:98c989a30a3f511976334b84f3dd0d328354128ff31ea376828dd76e9162853b",
     "sha256": "98c989a30a3f511976334b84f3dd0d328354128ff31ea376828dd76e9162853b",
     "sequence": 12,
-    "status": "source-complete",
+    "status": "cdn-pending",
     "sourceStatus": "complete",
     "cdnStatus": "pending",
     "title": "SVID_20261007_132342_1",
