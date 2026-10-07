@@ -3,15 +3,15 @@
   "repository": "JINGTING0714/jingyan-video-01",
   "id": "video-01",
   "type": "video",
-  "usedMB": 38.506,
+  "usedMB": 43.821,
   "targetMB": 700,
   "overflowToleranceMB": 10,
   "status": "active",
   "state": "active",
   "layout": "legacy-flat",
   "bucketSize": null,
-  "updatedAt": "2026-10-07T06:51:42.507Z",
-  "fileCount": 4,
+  "updatedAt": "2026-10-07T06:51:55.200Z",
+  "fileCount": 5,
   "firstMediaId": "video-000003",
-  "lastMediaId": "video-000006"
+  "lastMediaId": "video-000007"
 }
